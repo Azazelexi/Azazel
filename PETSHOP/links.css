@@ -1,0 +1,34 @@
+a{
+	font-size: 30px;
+	text-decoration: none;
+}
+a:link{
+	color: green;
+}
+
+a:visited{
+	color: yellow;
+}
+
+a:hover{
+	color: yellow;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	background-color: black;
+	width: 200px;
+}
+
+li a:hover{
+	background-color: red;
+}
+
+
+
+ol{
+	list-style-type: lower-roman;
+}
